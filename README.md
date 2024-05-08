@@ -22,5 +22,7 @@ If you don't see your language of preference on the list of languages above, **_
 3. Provide a link to the completed exercise to Jenny Hove [jenny.hove@sogeti.com]
 4. Receive personalized code review/feedback session from our technical team
 
+## Notes for review
+
 
 
