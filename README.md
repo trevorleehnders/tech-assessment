@@ -23,6 +23,13 @@ If you don't see your language of preference on the list of languages above, **_
 4. Receive personalized code review/feedback session from our technical team
 
 ## Notes for review
+- My laptops file system bacame corrupted so this was as far into reworking the Domain Driven Design I had earlier, This was done on my dads laptop and I had to go through and set up the .net environment and edior.
+
+- the initial goal was unit testing, integration testing, a containerized local enviornment.
+
+- github actions as qa gating with changes.
+
+- fully functioning api with swagger.
 
 
 
